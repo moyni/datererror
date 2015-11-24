@@ -1,0 +1,58 @@
+html {
+	height: 100%;
+	background-color: #e8eef2;
+	color: #353941;
+}
+
+body {
+	text-align: center;
+	font-family: 'Cousine', monospace;
+	font-weight: 400;
+}
+
+h1 {
+	color: #ff304f;
+	font-weight: 700;
+	font-size: 3em;
+}
+
+a, a:active, a:hover, a:focus, a:visited {
+	color: #ff304f;
+}
+
+img {
+	max-width: 90%;
+	margin: 1em;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+li {
+	display: inline;
+	text-decoration: none;
+}
+
+div {
+	margin: auto;
+	padding: auto 1em;
+}
+
+.heading {
+	max-width: 90%;
+}
+
+.pull-left {
+	width: 45%;
+	float: left;
+}
+
+.pull-right {
+	width: 45%;
+	float: right;
+}
+
+.basic {
+	color: #353941;
+}
