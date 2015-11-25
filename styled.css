@@ -23,6 +23,7 @@ a, a:active, a:hover, a:focus, a:visited {
 img {
 	max-width: 90%;
 	margin: 1em;
+	max-height: 400px;
 }
 
 ul {
