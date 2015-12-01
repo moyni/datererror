@@ -57,3 +57,8 @@ div {
 .basic {
 	color: #353941;
 }
+
+.index-img {
+	max-width: 90%;
+	clear: both;
+}
