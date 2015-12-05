@@ -1,0 +1,24 @@
+{
+  "name": "datererror",
+  "version": "1.0.0",
+  "description": "An awesome site to display dating errors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moyni/datererror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moyni/datererror/issues"
+  },
+  "homepage": "https://github.com/moyni/datererror#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
