@@ -35,7 +35,7 @@ app
     res.status(406).sendFile(getView('406.html'));
   })
   .get('/407', function (req, res) {
-    res.status(407).sendFile(getView('407.html'));
+    res.status(417).sendFile(getView('407.html'));
   })
   .get('/408', function (req, res) {
     res.status(408).sendFile(getView('408.html'));
